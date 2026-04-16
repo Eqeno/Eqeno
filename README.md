@@ -20,10 +20,8 @@ class eqeno {
 public:
     std::string name = "eqeno";
     std::string role = "Low-level developer";
-    std::string vibe = "Vibe coding only";
-
     std::vector<std::string> languages = {
-        "C++", "C#", "Python", "JavaScript"
+        "C++", "C#", "Python", "JavaScript", "Lua"
     };
 
     std::vector<std::string> skills = {
